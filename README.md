@@ -94,10 +94,10 @@ Crime data is essential for law enforcement agencies and policy-makers to make i
 
 #### **Execution Results**
 - **Sample Real Input**:
-    - ![](/images/Real Input.png)
+    - ![](images/Real Input.png)
 
 - **Sample Real Output**:
-    - ![](/images/Real Output (1\).png)
+    - ![](./images/Real Output (1\).png)
     - ![](/images/Real Output (2\).png)
     - ![](/images/Real Output (3\).png)
     - ![](/images/Real Output (4\).png)
