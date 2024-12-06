@@ -59,7 +59,7 @@ Crime data is essential for law enforcement agencies and policy-makers to make i
 ### **4. Code Structure**
 
 #### **Flow-Chart of Code Structure**
-![](/images/Code Structure Diagram.png)
+![Code Structure Diagram](images/Code%20Structure%20Diagram.png)
 
 #### **File Descriptions**
 1. **`main.py`**: The core application file containing all functionalities: data loading, preprocessing, modeling, and visualization.
@@ -94,22 +94,22 @@ Crime data is essential for law enforcement agencies and policy-makers to make i
 
 #### **Execution Results**
 - **Sample Real Input**:
-    - ![](images/Real Input.png)
+    - ![Sample Real Input](images/Real%20Input.png)
 
 - **Sample Real Output**:
-    - ![](./images/Real Output (1\).png)
-    - ![](/images/Real Output (2\).png)
-    - ![](/images/Real Output (3\).png)
-    - ![](/images/Real Output (4\).png)
+    - ![Real Output 1](images/Real%20Output%20(1).png)
+    - ![Real Output 2](images/Real%20Output%20(2).png)
+    - ![Real Output 3](images/Real%20Output%20(3).png)
+    - ![Real Output 4](images/Real%20Output%20(4).png)
 
 - **Sample Synthetic Input**:
-    - ![](/images/Synthetic Input.png)
+    - ![Sample Synthetic Input](images/Synthetic%20Input.png)
 
 - **Sample Synthetic Output**:
-    - ![](/images/Synthetic Output (1\).png)
-    - ![](/images/Synthetic Output (2\).png)
-    - ![](/images/Synthetic Output (3\).png)
-    - ![](/images/Synthetic Output (4\).png)
+    - ![Synthetic Output 1](images/Synthetic%20Output%20(1).png)
+    - ![Synthetic Output 2](images/Synthetic%20Output%20(2).png)
+    - ![Synthetic Output 3](images/Synthetic%20Output%20(3).png)
+    - ![Synthetic Output 4](images/Synthetic%20Output%20(4).png)
 
 - **Visualizations**:
   - **Crime Trend Over Time**: A clear line graph showing daily crime patterns.
